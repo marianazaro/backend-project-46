@@ -20,7 +20,11 @@
     "gendiff": "bin/gendiff.js"
   },
   "dependencies": {
-    "commander": "^9.4.1"
+    "commander": "^9.4.1",
+    "js-yaml": "^4.1.0",
+    "lodash": "^4.17.21",
+    "plain-js": "^1.0.2",
+    "stylish": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^8.29.0",
